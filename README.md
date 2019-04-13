@@ -2,7 +2,7 @@
 A review of methods in GNN
 ## 1.Graph Convolution Networks
 ### 1.1 Spectral-based  
-		Semi-supervised classiﬁcation with graph convolutional networks [download]
+		Semi-supervised classiﬁcation with graph convolutional networks [download](kkkkk001/GNN-summary/master/paper/13-Neural message passing for quantum chemistry.pdf)
 		Spectral Networks and Deep Locally Connected Networks on Graphs [download]
 		Deep convolutional networks on graph-structured data [download]
 		Adaptive graph convolutional neural networks [download]
